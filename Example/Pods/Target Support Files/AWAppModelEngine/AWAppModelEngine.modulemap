@@ -1,0 +1,6 @@
+framework module AWAppModelEngine {
+  umbrella header "AWAppModelEngine-umbrella.h"
+
+  export *
+  module * { export * }
+}

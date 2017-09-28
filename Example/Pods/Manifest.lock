@@ -1,0 +1,16 @@
+PODS:
+  - AWAppModelEngine (0.1.0)
+
+DEPENDENCIES:
+  - AWAppModelEngine (from `../`)
+
+EXTERNAL SOURCES:
+  AWAppModelEngine:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AWAppModelEngine: 4681b9678ce69f712f1e8503b30e016fb8881dbd
+
+PODFILE CHECKSUM: a264b250c96068f83970a3b6cd4bb4c59082b5d0
+
+COCOAPODS: 1.2.1

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AWAppModelEngine_Example' do
+  pod 'AWAppModelEngine', :path => '../'
+
+  target 'AWAppModelEngine_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,22 @@
+{
+  "name": "AWAppModelEngine",
+  "version": "0.1.0",
+  "summary": "A short description of AWAppModelEngine.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tryhone/AWAppModelEngine",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tryhone": "tryhone@gamil.com"
+  },
+  "source": {
+    "git": "https://github.com/tryhone/AWAppModelEngine.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AWAppModelEngine/Classes/**/*"
+}
